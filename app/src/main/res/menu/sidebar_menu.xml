@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_knowUs"
+        android:title="關於我們"
+        app:menu="@menu/sidebar_menu"/>
+
+<!--    <item-->
+<!--        android:id="@+id/nav_feedback"-->
+<!--        android:title="意見回饋"-->
+<!--        app:menu="@menu/sidebar_menu"/>-->
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="登出"
+        app:menu="@menu/sidebar_menu" />
+
+
+</menu>
