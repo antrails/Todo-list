@@ -1,6 +1,9 @@
 # 📝 TodoList App (Android)
 
-這是一個使用 Kotlin 開發的待辦事項 App，支援使用者登入、任務管理，以及本地與雲端（Firebase）資料同步。
+一款使用 Kotlin 開發的 Android Todo App，結合 Firebase 與 Room，
+實現「離線優先（Offline-first）」的任務管理系統。
+
+支援使用者登入、任務同步與行事曆檢視，提供流暢且可靠的使用體驗。
 
 ---
 
