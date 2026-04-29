@@ -33,10 +33,12 @@
 
 ## 🗂️ 資料流程
 
-新增任務時：
-User 操作
-→ 存入 Room（本地）
-→ 同步至 Firebase（雲端）
+### 🔄 資料同步流程
+
+1. 使用者操作新增任務
+2. 資料先寫入 Room（本地）
+3. 再同步至 Firebase Firestore（雲端）
+4. 確保離線狀態下仍可正常使用（Offline-first）
 
 資料結構：
 users
@@ -68,6 +70,7 @@ users
 
 ---
 
-## 👨‍💻 作者
+## 👨‍💻 Author
 
-- 洪書文 antrails
+- 洪書文 (antrails)
+- GitHub: https://github.com/amtrails
