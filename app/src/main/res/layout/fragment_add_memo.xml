@@ -210,7 +210,7 @@
             android:layout_height="50dp"
             android:layout_marginBottom="10dp"
             android:background="@drawable/bg_btn_delete"
-            android:text="刪除"
+            android:text="刪除並返回"
             android:textAllCaps="false"
             android:textColor="#FFFFFF"
             android:textSize="16sp"

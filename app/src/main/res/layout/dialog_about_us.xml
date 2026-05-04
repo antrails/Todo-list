@@ -18,21 +18,21 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="你的 App 名稱"
-        android:textSize="18sp"
-        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:text="Todolist"
         android:textColor="#F5D432"
-        android:layout_marginTop="16dp" />
+        android:textSize="18sp"
+        android:textStyle="bold" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="這是一個用來介紹 App 的小視窗。\n\n版本：1.0.0\n開發者：你的名字"
-        android:textSize="14sp"
-        android:textColor="#DDDDDD"
+        android:layout_marginTop="12dp"
         android:gravity="center"
         android:lineSpacingExtra="4dp"
-        android:layout_marginTop="12dp" />
+        android:text="版本：1.0.0\n開發者：洪書文ant \n\n感謝您使用APP"
+        android:textColor="#DDDDDD"
+        android:textSize="14sp" />
 
     <Button
         android:id="@+id/btnCloseAbout"
