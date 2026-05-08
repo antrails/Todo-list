@@ -50,16 +50,22 @@ users
 ---
 
 ## 📸 App 畫面
-- Login 畫面
-<img width="392" height="863" alt="image" src="https://github.com/user-attachments/assets/92118b43-9739-472e-9de4-f7ccc6222161" />
-- Home 任務列表
-- <img width="388" height="860" alt="image" src="https://github.com/user-attachments/assets/e6307a96-d20c-4d4b-adee-3c5cf4a87206" />
-- Calendar 行事曆
-- <img width="392" height="865" alt="image" src="https://github.com/user-attachments/assets/fd120b0c-2134-40fc-b2fd-b355b4d28f4e" />
+
+| Login 登入 | Home 任務列表 |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/92118b43-9739-472e-9de4-f7ccc6222161" width="220"/> | <img src="https://github.com/user-attachments/assets/e6307a96-d20c-4d4b-adee-3c5cf4a87206" width="220"/> |
+
+| Calendar 行事曆 | 新增任務 |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/fd120b0c-2134-40fc-b2fd-b355b4d28f4e" width="220"/> | <img src="https://github.com/user-attachments/assets/2f825e25-e488-4467-b8b7-2492a73c25ba" width="220"/> |
 
 
 ---
 
+## 🔧 使用技術
+
+- Firebase：使用者登入與雲端資料同步
+- Room：手機本機資料儲存，支援離線查看任務
 
 ---
 
